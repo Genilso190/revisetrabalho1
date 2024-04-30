@@ -9,8 +9,7 @@ export default function Header(){
         <a href="">Destination </a>
         <a href="">Discounts </a>
       </nav>
-            
-        </div>
+     </div>
 
     )
 }
