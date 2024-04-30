@@ -1,7 +1,7 @@
 export default function Banner(){
     return(
         <div className="mt-3 p-8 text-white bg-orange-600">
-            <h2 className="text-sm">Let's go now</h2>
+            <h2 className="text-sm">Lets go now</h2>
             <h3 className="text-base">explore</h3>
             <h4 className="text-lg">and travel</h4>
             <button
