@@ -1,5 +1,4 @@
 
-
 export default function Landscap(){
     return(
         <> <div className="mt-6 gap-2 grid grid-cols-2 justify-items-center lg:flex justify-between">  
